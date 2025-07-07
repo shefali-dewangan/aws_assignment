@@ -1,0 +1,2 @@
+document.getElementById("welcome-text").textContent = 
+    "Welcome to our EC2 Server, by Shefali Dewangan and Rachit Sharma";
